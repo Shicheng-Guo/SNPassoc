@@ -7,5 +7,7 @@
 
 ```
 install.packages("SNPassoc")
+BiocManager::install("snpStats")
 library("SNPassoc")
+library("snpStats")
 ```
